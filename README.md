@@ -1,1 +1,1 @@
-# ext2ed.github.io
+# blog.njstu.net
